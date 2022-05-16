@@ -1,0 +1,48 @@
+.indie-flower{
+    font-family: "Indie Flower" , cursive;
+    font-size: 16px;
+}
+
+
+.margin-t-s{
+    margin-bottom: 0.25rem;
+}
+
+.margin-t-m{
+    margin-bottom: 0.5rem;
+}
+
+.margin-t-l{
+    margin-bottom: 0.75rem;
+}
+
+
+.margin-b-s{
+    margin-bottom: 1.25rem;
+}
+
+.margin-b-m{
+    margin-bottom: 1.5rem;
+}
+
+.margin-b-l{
+    margin-bottom: 1.75rem;
+}
+
+.margin-b-xl{
+    margin-bottom: 2rem;
+}
+
+
+.text-private-red{
+    color: rgba(220, 0, 0, 0.802);
+}
+
+.text-red{
+    color: red;
+}
+
+
+.text-bold{
+    font-weight: bold;
+}
